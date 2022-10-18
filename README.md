@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashaswini-2005
-- 👀 I’m interested in fontend developer
+- 👀 I’m interested in fontend developer and cyber security
 - 🌱 I’m currently learning css and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  ph:9908531338
